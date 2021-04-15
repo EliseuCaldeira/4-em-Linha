@@ -1,7 +1,6 @@
 ﻿# Jogo 4 em linha
-Cada jogador deve tentar colocar 4 peças em sequência<br/>
-seja em linha, em coluna, ou em diagonal<br/>
-**Este jogo foi criado especificamente para correm em Windows**<br/>
+Cada jogador deve tentar colocar 4 peças em sequência, seja em linha, em coluna, ou em diagonal<br/>
+**Este jogo foi criado especificamente para correr em Windows**<br/>
 <br/>
 ## ISTRUÇÕES PARA COMPILAR:
 O ficheiro rlutil.h deve se encontrar na mesma pasta que o main.c<br/>
